@@ -1,0 +1,975 @@
+2026-04-28 04:36:41,643 - INFO - Worker 6 started with 15 pincodes
+2026-04-28 04:36:41,654 - INFO - [1/15] Processing pincode: 533445
+2026-04-28 04:36:42,055 - INFO - Starting scrape for pincode 533445
+2026-04-28 04:36:43,912 - DEBUG - Navigating to https://www.google.co.in/maps/search/hospital+in+533445/
+2026-04-28 04:36:54,272 - DEBUG - Found 8 cards on page
+2026-04-28 04:36:54,966 - DEBUG - Found hospital: Sri Vishnu Multispeciality Hospital
+2026-04-28 04:36:55,042 - DEBUG - Found hospital: Annapurna Talli pillala hospital
+2026-04-28 04:36:55,090 - DEBUG - Found hospital: Devarsh Hospitals
+2026-04-28 04:36:55,221 - DEBUG - Found hospital: Karthikeya hospitals, Pithapuram
+2026-04-28 04:36:55,233 - DEBUG - Found hospital: Sri Sai Bhavani Hospital
+2026-04-28 04:36:55,242 - DEBUG - Found hospital: JGR HOSPITALS
+2026-04-28 04:36:55,251 - DEBUG - Found hospital: Trinity Hospitals
+2026-04-28 04:36:55,258 - DEBUG - Found hospital: Jai bhavani hospital
+2026-04-28 04:36:55,258 - INFO - Worker 6 | 533445: 8 hospitals so far
+2026-04-28 04:36:57,430 - DEBUG - Found 8 cards on page
+2026-04-28 04:36:57,540 - INFO - Worker 6 | 533445: 8 hospitals so far
+2026-04-28 04:36:59,589 - DEBUG - No new hospitals, scroll_attempts=1
+2026-04-28 04:36:59,602 - DEBUG - Found 8 cards on page
+2026-04-28 04:36:59,644 - INFO - Worker 6 | 533445: 8 hospitals so far
+2026-04-28 04:37:01,649 - DEBUG - No new hospitals, scroll_attempts=2
+2026-04-28 04:37:01,662 - DEBUG - Found 8 cards on page
+2026-04-28 04:37:01,702 - INFO - Worker 6 | 533445: 8 hospitals so far
+2026-04-28 04:37:03,707 - DEBUG - No new hospitals, scroll_attempts=3
+2026-04-28 04:37:03,722 - DEBUG - Found 8 cards on page
+2026-04-28 04:37:03,764 - INFO - Worker 6 | 533445: 8 hospitals so far
+2026-04-28 04:37:05,768 - DEBUG - No new hospitals, scroll_attempts=4
+2026-04-28 04:37:05,783 - DEBUG - Found 8 cards on page
+2026-04-28 04:37:05,823 - INFO - Worker 6 | 533445: 8 hospitals so far
+2026-04-28 04:37:07,828 - DEBUG - No new hospitals, scroll_attempts=5
+2026-04-28 04:37:07,839 - DEBUG - Found 8 cards on page
+2026-04-28 04:37:07,880 - INFO - Worker 6 | 533445: 8 hospitals so far
+2026-04-28 04:37:09,887 - DEBUG - No new hospitals, scroll_attempts=6
+2026-04-28 04:37:09,901 - DEBUG - Found 8 cards on page
+2026-04-28 04:37:09,939 - INFO - Worker 6 | 533445: 8 hospitals so far
+2026-04-28 04:37:11,945 - DEBUG - No new hospitals, scroll_attempts=7
+2026-04-28 04:37:11,952 - DEBUG - Found 8 cards on page
+2026-04-28 04:37:11,997 - INFO - Worker 6 | 533445: 8 hospitals so far
+2026-04-28 04:37:14,002 - DEBUG - No new hospitals, scroll_attempts=8
+2026-04-28 04:37:14,026 - DEBUG - Found 8 cards on page
+2026-04-28 04:37:14,071 - INFO - Worker 6 | 533445: 8 hospitals so far
+2026-04-28 04:37:16,076 - DEBUG - No new hospitals, scroll_attempts=9
+2026-04-28 04:37:16,087 - DEBUG - Found 8 cards on page
+2026-04-28 04:37:16,130 - INFO - Worker 6 | 533445: 8 hospitals so far
+2026-04-28 04:37:18,138 - DEBUG - No new hospitals, scroll_attempts=10
+2026-04-28 04:37:18,150 - DEBUG - Found 8 cards on page
+2026-04-28 04:37:18,196 - INFO - Worker 6 | 533445: 8 hospitals so far
+2026-04-28 04:37:20,201 - DEBUG - No new hospitals, scroll_attempts=11
+2026-04-28 04:37:20,217 - DEBUG - Found 8 cards on page
+2026-04-28 04:37:20,263 - INFO - Worker 6 | 533445: 8 hospitals so far
+2026-04-28 04:37:22,268 - DEBUG - No new hospitals, scroll_attempts=12
+2026-04-28 04:37:22,280 - DEBUG - Found 8 cards on page
+2026-04-28 04:37:22,325 - INFO - Worker 6 | 533445: 8 hospitals so far
+2026-04-28 04:37:24,331 - DEBUG - No new hospitals, scroll_attempts=13
+2026-04-28 04:37:24,348 - DEBUG - Found 8 cards on page
+2026-04-28 04:37:24,396 - INFO - Worker 6 | 533445: 8 hospitals so far
+2026-04-28 04:37:26,400 - DEBUG - No new hospitals, scroll_attempts=14
+2026-04-28 04:37:26,440 - DEBUG - Found 8 cards on page
+2026-04-28 04:37:26,501 - INFO - Worker 6 | 533445: 8 hospitals so far
+2026-04-28 04:37:28,509 - DEBUG - No new hospitals, scroll_attempts=15
+2026-04-28 04:37:29,016 - INFO - Completed 533445 with 8 hospitals
+2026-04-28 04:37:30,760 - INFO - Inserted 8 new businesses for 533445
+2026-04-28 04:37:33,936 - INFO - [2/15] Processing pincode: 533435
+2026-04-28 04:37:36,590 - INFO - Starting scrape for pincode 533435
+2026-04-28 04:37:41,212 - DEBUG - Navigating to https://www.google.co.in/maps/search/hospital+in+533435/
+2026-04-28 04:37:48,455 - DEBUG - Found 8 cards on page
+2026-04-28 04:37:48,463 - DEBUG - Found hospital: SAI HOSPITALS, JAGGAMPETA
+2026-04-28 04:37:48,473 - DEBUG - Found hospital: Sri Vijayalakshmi Multispeciality Hospital
+2026-04-28 04:37:48,480 - DEBUG - Found hospital: KARTHIKEYA HOSPITALS
+2026-04-28 04:37:48,489 - DEBUG - Found hospital: Aditya Hospital
+2026-04-28 04:37:48,499 - DEBUG - Found hospital: Community Health Center Jaggampeta
+2026-04-28 04:37:48,507 - DEBUG - Found hospital: Jaya Nursing Home
+2026-04-28 04:37:48,513 - DEBUG - Found hospital: Amma Hospitals
+2026-04-28 04:37:48,522 - DEBUG - Found hospital: SAMBASIVA HOSPITAL
+2026-04-28 04:37:48,523 - INFO - Worker 6 | 533435: 8 hospitals so far
+2026-04-28 04:37:50,548 - DEBUG - Found 8 cards on page
+2026-04-28 04:37:50,599 - INFO - Worker 6 | 533435: 8 hospitals so far
+2026-04-28 04:37:52,606 - DEBUG - No new hospitals, scroll_attempts=1
+2026-04-28 04:37:52,638 - DEBUG - Found 8 cards on page
+2026-04-28 04:37:52,686 - INFO - Worker 6 | 533435: 8 hospitals so far
+2026-04-28 04:37:54,691 - DEBUG - No new hospitals, scroll_attempts=2
+2026-04-28 04:37:54,706 - DEBUG - Found 8 cards on page
+2026-04-28 04:37:54,752 - INFO - Worker 6 | 533435: 8 hospitals so far
+2026-04-28 04:37:56,759 - DEBUG - No new hospitals, scroll_attempts=3
+2026-04-28 04:37:56,820 - DEBUG - Found 8 cards on page
+2026-04-28 04:37:56,935 - INFO - Worker 6 | 533435: 8 hospitals so far
+2026-04-28 04:37:58,950 - DEBUG - No new hospitals, scroll_attempts=4
+2026-04-28 04:37:58,964 - DEBUG - Found 8 cards on page
+2026-04-28 04:37:59,012 - INFO - Worker 6 | 533435: 8 hospitals so far
+2026-04-28 04:38:01,017 - DEBUG - No new hospitals, scroll_attempts=5
+2026-04-28 04:38:01,036 - DEBUG - Found 8 cards on page
+2026-04-28 04:38:01,129 - INFO - Worker 6 | 533435: 8 hospitals so far
+2026-04-28 04:38:03,155 - DEBUG - No new hospitals, scroll_attempts=6
+2026-04-28 04:38:03,202 - DEBUG - Found 8 cards on page
+2026-04-28 04:38:03,319 - INFO - Worker 6 | 533435: 8 hospitals so far
+2026-04-28 04:38:05,379 - DEBUG - No new hospitals, scroll_attempts=7
+2026-04-28 04:38:05,394 - DEBUG - Found 8 cards on page
+2026-04-28 04:38:05,446 - INFO - Worker 6 | 533435: 8 hospitals so far
+2026-04-28 04:38:07,459 - DEBUG - No new hospitals, scroll_attempts=8
+2026-04-28 04:38:07,474 - DEBUG - Found 8 cards on page
+2026-04-28 04:38:07,530 - INFO - Worker 6 | 533435: 8 hospitals so far
+2026-04-28 04:38:09,537 - DEBUG - No new hospitals, scroll_attempts=9
+2026-04-28 04:38:09,554 - DEBUG - Found 8 cards on page
+2026-04-28 04:38:09,608 - INFO - Worker 6 | 533435: 8 hospitals so far
+2026-04-28 04:38:11,612 - DEBUG - No new hospitals, scroll_attempts=10
+2026-04-28 04:38:11,627 - DEBUG - Found 8 cards on page
+2026-04-28 04:38:11,679 - INFO - Worker 6 | 533435: 8 hospitals so far
+2026-04-28 04:38:13,691 - DEBUG - No new hospitals, scroll_attempts=11
+2026-04-28 04:38:13,705 - DEBUG - Found 8 cards on page
+2026-04-28 04:38:13,752 - INFO - Worker 6 | 533435: 8 hospitals so far
+2026-04-28 04:38:15,756 - DEBUG - No new hospitals, scroll_attempts=12
+2026-04-28 04:38:15,775 - DEBUG - Found 8 cards on page
+2026-04-28 04:38:15,824 - INFO - Worker 6 | 533435: 8 hospitals so far
+2026-04-28 04:38:17,876 - DEBUG - No new hospitals, scroll_attempts=13
+2026-04-28 04:38:17,888 - DEBUG - Found 8 cards on page
+2026-04-28 04:38:17,985 - INFO - Worker 6 | 533435: 8 hospitals so far
+2026-04-28 04:38:19,989 - DEBUG - No new hospitals, scroll_attempts=14
+2026-04-28 04:38:20,032 - DEBUG - Found 8 cards on page
+2026-04-28 04:38:20,095 - INFO - Worker 6 | 533435: 8 hospitals so far
+2026-04-28 04:38:22,102 - DEBUG - No new hospitals, scroll_attempts=15
+2026-04-28 04:38:29,187 - INFO - Completed 533435 with 8 hospitals
+2026-04-28 04:38:29,846 - INFO - Inserted 8 new businesses for 533435
+2026-04-28 04:38:32,104 - INFO - [3/15] Processing pincode: 533451
+2026-04-28 04:38:32,322 - INFO - Starting scrape for pincode 533451
+2026-04-28 04:38:33,507 - DEBUG - Navigating to https://www.google.co.in/maps/search/hospital+in+533451/
+2026-04-28 04:38:39,969 - DEBUG - Found 8 cards on page
+2026-04-28 04:38:39,977 - DEBUG - Found hospital: IMHS MULTISPECIALITY HOSPITAL
+2026-04-28 04:38:39,985 - DEBUG - Found hospital: Morya Hospital
+2026-04-28 04:38:39,991 - DEBUG - Found hospital: Nawale Hospital
+2026-04-28 04:38:39,999 - DEBUG - Found hospital: Shree Samartha Hospital
+2026-04-28 04:38:40,004 - DEBUG - Found hospital: Prime Hospital Wagholi प्राईम हॉस्पिटल वाघोली
+2026-04-28 04:38:40,011 - DEBUG - Found hospital: Hospital
+2026-04-28 04:38:40,018 - DEBUG - Found hospital: श्री सिद्धनाथ हॉस्पिटल Shree Siddhnath Hospital
+2026-04-28 04:38:40,027 - DEBUG - Found hospital: SANKALP HOSPITAL
+2026-04-28 04:38:40,027 - INFO - Worker 6 | 533451: 8 hospitals so far
+2026-04-28 04:38:42,049 - DEBUG - Found 8 cards on page
+2026-04-28 04:38:42,093 - INFO - Worker 6 | 533451: 8 hospitals so far
+2026-04-28 04:38:44,098 - DEBUG - No new hospitals, scroll_attempts=1
+2026-04-28 04:38:44,113 - DEBUG - Found 8 cards on page
+2026-04-28 04:38:44,164 - INFO - Worker 6 | 533451: 8 hospitals so far
+2026-04-28 04:38:46,169 - DEBUG - No new hospitals, scroll_attempts=2
+2026-04-28 04:38:46,189 - DEBUG - Found 8 cards on page
+2026-04-28 04:38:46,241 - INFO - Worker 6 | 533451: 8 hospitals so far
+2026-04-28 04:38:48,248 - DEBUG - No new hospitals, scroll_attempts=3
+2026-04-28 04:38:48,266 - DEBUG - Found 8 cards on page
+2026-04-28 04:38:48,319 - INFO - Worker 6 | 533451: 8 hospitals so far
+2026-04-28 04:38:50,323 - DEBUG - No new hospitals, scroll_attempts=4
+2026-04-28 04:38:50,338 - DEBUG - Found 8 cards on page
+2026-04-28 04:38:50,392 - INFO - Worker 6 | 533451: 8 hospitals so far
+2026-04-28 04:38:52,398 - DEBUG - No new hospitals, scroll_attempts=5
+2026-04-28 04:38:52,448 - DEBUG - Found 8 cards on page
+2026-04-28 04:38:52,487 - INFO - Worker 6 | 533451: 8 hospitals so far
+2026-04-28 04:38:54,492 - DEBUG - No new hospitals, scroll_attempts=6
+2026-04-28 04:38:54,540 - DEBUG - Found 8 cards on page
+2026-04-28 04:38:54,605 - INFO - Worker 6 | 533451: 8 hospitals so far
+2026-04-28 04:38:56,620 - DEBUG - No new hospitals, scroll_attempts=7
+2026-04-28 04:38:56,650 - DEBUG - Found 8 cards on page
+2026-04-28 04:38:56,726 - INFO - Worker 6 | 533451: 8 hospitals so far
+2026-04-28 04:38:58,782 - DEBUG - No new hospitals, scroll_attempts=8
+2026-04-28 04:38:58,797 - DEBUG - Found 8 cards on page
+2026-04-28 04:38:58,837 - INFO - Worker 6 | 533451: 8 hospitals so far
+2026-04-28 04:39:00,843 - DEBUG - No new hospitals, scroll_attempts=9
+2026-04-28 04:39:00,859 - DEBUG - Found 8 cards on page
+2026-04-28 04:39:00,910 - INFO - Worker 6 | 533451: 8 hospitals so far
+2026-04-28 04:39:02,916 - DEBUG - No new hospitals, scroll_attempts=10
+2026-04-28 04:39:02,930 - DEBUG - Found 8 cards on page
+2026-04-28 04:39:03,002 - INFO - Worker 6 | 533451: 8 hospitals so far
+2026-04-28 04:39:05,007 - DEBUG - No new hospitals, scroll_attempts=11
+2026-04-28 04:39:05,021 - DEBUG - Found 8 cards on page
+2026-04-28 04:39:05,160 - INFO - Worker 6 | 533451: 8 hospitals so far
+2026-04-28 04:39:07,175 - DEBUG - No new hospitals, scroll_attempts=12
+2026-04-28 04:39:07,358 - DEBUG - Found 8 cards on page
+2026-04-28 04:39:07,587 - INFO - Worker 6 | 533451: 8 hospitals so far
+2026-04-28 04:39:09,616 - DEBUG - No new hospitals, scroll_attempts=13
+2026-04-28 04:39:09,634 - DEBUG - Found 8 cards on page
+2026-04-28 04:39:09,680 - INFO - Worker 6 | 533451: 8 hospitals so far
+2026-04-28 04:39:11,684 - DEBUG - No new hospitals, scroll_attempts=14
+2026-04-28 04:39:11,726 - DEBUG - Found 8 cards on page
+2026-04-28 04:39:11,788 - INFO - Worker 6 | 533451: 8 hospitals so far
+2026-04-28 04:39:13,794 - DEBUG - No new hospitals, scroll_attempts=15
+2026-04-28 04:39:14,980 - INFO - Completed 533451 with 8 hospitals
+2026-04-28 04:39:15,597 - INFO - Inserted 8 new businesses for 533451
+2026-04-28 04:39:20,414 - INFO - [4/15] Processing pincode: 533407
+2026-04-28 04:39:21,533 - INFO - Starting scrape for pincode 533407
+2026-04-28 04:39:25,026 - DEBUG - Navigating to https://www.google.co.in/maps/search/hospital+in+533407/
+2026-04-28 04:39:32,049 - DEBUG - Found 8 cards on page
+2026-04-28 04:39:32,065 - DEBUG - Found hospital: Government hospital
+2026-04-28 04:39:32,079 - DEBUG - Found hospital: Tirumala Hospital
+2026-04-28 04:39:32,088 - DEBUG - Found hospital: Trinity Hospitals
+2026-04-28 04:39:32,094 - DEBUG - Found hospital: Manjeera Super Specialty Hospitals
+2026-04-28 04:39:32,103 - DEBUG - Found hospital: Sri Vishnu Multispeciality Hospital
+2026-04-28 04:39:32,111 - DEBUG - Found hospital: అబ్బయి doctor
+2026-04-28 04:39:32,118 - DEBUG - Found hospital: Sri Lalitha Hospital
+2026-04-28 04:39:32,124 - DEBUG - Found hospital: Prasanthi Hospital
+2026-04-28 04:39:32,124 - INFO - Worker 6 | 533407: 8 hospitals so far
+2026-04-28 04:39:34,144 - DEBUG - Found 8 cards on page
+2026-04-28 04:39:34,187 - INFO - Worker 6 | 533407: 8 hospitals so far
+2026-04-28 04:39:36,193 - DEBUG - No new hospitals, scroll_attempts=1
+2026-04-28 04:39:36,206 - DEBUG - Found 8 cards on page
+2026-04-28 04:39:36,250 - INFO - Worker 6 | 533407: 8 hospitals so far
+2026-04-28 04:39:38,256 - DEBUG - No new hospitals, scroll_attempts=2
+2026-04-28 04:39:38,271 - DEBUG - Found 8 cards on page
+2026-04-28 04:39:38,313 - INFO - Worker 6 | 533407: 8 hospitals so far
+2026-04-28 04:39:40,320 - DEBUG - No new hospitals, scroll_attempts=3
+2026-04-28 04:39:40,357 - DEBUG - Found 8 cards on page
+2026-04-28 04:39:40,402 - INFO - Worker 6 | 533407: 8 hospitals so far
+2026-04-28 04:39:42,410 - DEBUG - No new hospitals, scroll_attempts=4
+2026-04-28 04:39:42,478 - DEBUG - Found 8 cards on page
+2026-04-28 04:39:42,541 - INFO - Worker 6 | 533407: 8 hospitals so far
+2026-04-28 04:39:44,552 - DEBUG - No new hospitals, scroll_attempts=5
+2026-04-28 04:39:44,567 - DEBUG - Found 8 cards on page
+2026-04-28 04:39:44,608 - INFO - Worker 6 | 533407: 8 hospitals so far
+2026-04-28 04:39:46,612 - DEBUG - No new hospitals, scroll_attempts=6
+2026-04-28 04:39:46,630 - DEBUG - Found 8 cards on page
+2026-04-28 04:39:46,676 - INFO - Worker 6 | 533407: 8 hospitals so far
+2026-04-28 04:39:48,682 - DEBUG - No new hospitals, scroll_attempts=7
+2026-04-28 04:39:48,700 - DEBUG - Found 8 cards on page
+2026-04-28 04:39:48,745 - INFO - Worker 6 | 533407: 8 hospitals so far
+2026-04-28 04:39:50,751 - DEBUG - No new hospitals, scroll_attempts=8
+2026-04-28 04:39:50,768 - DEBUG - Found 8 cards on page
+2026-04-28 04:39:50,818 - INFO - Worker 6 | 533407: 8 hospitals so far
+2026-04-28 04:39:52,824 - DEBUG - No new hospitals, scroll_attempts=9
+2026-04-28 04:39:52,837 - DEBUG - Found 8 cards on page
+2026-04-28 04:39:52,882 - INFO - Worker 6 | 533407: 8 hospitals so far
+2026-04-28 04:39:54,900 - DEBUG - No new hospitals, scroll_attempts=10
+2026-04-28 04:39:54,922 - DEBUG - Found 8 cards on page
+2026-04-28 04:39:54,968 - INFO - Worker 6 | 533407: 8 hospitals so far
+2026-04-28 04:39:56,973 - DEBUG - No new hospitals, scroll_attempts=11
+2026-04-28 04:39:56,986 - DEBUG - Found 8 cards on page
+2026-04-28 04:39:57,032 - INFO - Worker 6 | 533407: 8 hospitals so far
+2026-04-28 04:39:59,038 - DEBUG - No new hospitals, scroll_attempts=12
+2026-04-28 04:39:59,054 - DEBUG - Found 8 cards on page
+2026-04-28 04:39:59,096 - INFO - Worker 6 | 533407: 8 hospitals so far
+2026-04-28 04:40:01,102 - DEBUG - No new hospitals, scroll_attempts=13
+2026-04-28 04:40:01,136 - DEBUG - Found 8 cards on page
+2026-04-28 04:40:01,199 - INFO - Worker 6 | 533407: 8 hospitals so far
+2026-04-28 04:40:03,206 - DEBUG - No new hospitals, scroll_attempts=14
+2026-04-28 04:40:03,221 - DEBUG - Found 8 cards on page
+2026-04-28 04:40:03,271 - INFO - Worker 6 | 533407: 8 hospitals so far
+2026-04-28 04:40:05,278 - DEBUG - No new hospitals, scroll_attempts=15
+2026-04-28 04:40:09,367 - INFO - Completed 533407 with 8 hospitals
+2026-04-28 04:40:10,270 - INFO - Inserted 8 new businesses for 533407
+2026-04-28 04:40:12,925 - INFO - [5/15] Processing pincode: 533433
+2026-04-28 04:40:13,127 - INFO - Starting scrape for pincode 533433
+2026-04-28 04:40:15,018 - DEBUG - Navigating to https://www.google.co.in/maps/search/hospital+in+533433/
+2026-04-28 04:40:21,632 - DEBUG - Found 8 cards on page
+2026-04-28 04:40:21,640 - DEBUG - Found hospital: Trinity Hospitals
+2026-04-28 04:40:21,648 - DEBUG - Found hospital: Kushi Multispeciality Hospital
+2026-04-28 04:40:21,654 - DEBUG - Found hospital: Community Health Centre
+2026-04-28 04:40:21,661 - DEBUG - Found hospital: Sri Vijayalakshmi Multispeciality Hospital
+2026-04-28 04:40:21,669 - DEBUG - Found hospital: Sri Vishnu Multispeciality Hospital
+2026-04-28 04:40:21,675 - DEBUG - Found hospital: JGR HOSPITALS
+2026-04-28 04:40:21,684 - DEBUG - Found hospital: ADITYA MULTI SPECIALITY HOSPITAL GOKAVARAM
+2026-04-28 04:40:21,689 - DEBUG - Found hospital: Padmanabham Gari Hospital
+2026-04-28 04:40:21,691 - INFO - Worker 6 | 533433: 8 hospitals so far
+2026-04-28 04:40:23,724 - DEBUG - Found 8 cards on page
+2026-04-28 04:40:23,783 - INFO - Worker 6 | 533433: 8 hospitals so far
+2026-04-28 04:40:25,792 - DEBUG - No new hospitals, scroll_attempts=1
+2026-04-28 04:40:25,807 - DEBUG - Found 8 cards on page
+2026-04-28 04:40:25,855 - INFO - Worker 6 | 533433: 8 hospitals so far
+2026-04-28 04:40:27,861 - DEBUG - No new hospitals, scroll_attempts=2
+2026-04-28 04:40:27,884 - DEBUG - Found 8 cards on page
+2026-04-28 04:40:27,930 - INFO - Worker 6 | 533433: 8 hospitals so far
+2026-04-28 04:40:29,935 - DEBUG - No new hospitals, scroll_attempts=3
+2026-04-28 04:40:29,951 - DEBUG - Found 8 cards on page
+2026-04-28 04:40:30,002 - INFO - Worker 6 | 533433: 8 hospitals so far
+2026-04-28 04:40:32,010 - DEBUG - No new hospitals, scroll_attempts=4
+2026-04-28 04:40:32,048 - DEBUG - Found 8 cards on page
+2026-04-28 04:40:32,118 - INFO - Worker 6 | 533433: 8 hospitals so far
+2026-04-28 04:40:34,140 - DEBUG - No new hospitals, scroll_attempts=5
+2026-04-28 04:40:34,157 - DEBUG - Found 8 cards on page
+2026-04-28 04:40:34,204 - INFO - Worker 6 | 533433: 8 hospitals so far
+2026-04-28 04:40:36,211 - DEBUG - No new hospitals, scroll_attempts=6
+2026-04-28 04:40:36,223 - DEBUG - Found 8 cards on page
+2026-04-28 04:40:36,265 - INFO - Worker 6 | 533433: 8 hospitals so far
+2026-04-28 04:40:38,270 - DEBUG - No new hospitals, scroll_attempts=7
+2026-04-28 04:40:38,286 - DEBUG - Found 8 cards on page
+2026-04-28 04:40:38,342 - INFO - Worker 6 | 533433: 8 hospitals so far
+2026-04-28 04:40:40,347 - DEBUG - No new hospitals, scroll_attempts=8
+2026-04-28 04:40:40,364 - DEBUG - Found 8 cards on page
+2026-04-28 04:40:40,408 - INFO - Worker 6 | 533433: 8 hospitals so far
+2026-04-28 04:40:42,414 - DEBUG - No new hospitals, scroll_attempts=9
+2026-04-28 04:40:42,428 - DEBUG - Found 8 cards on page
+2026-04-28 04:40:42,489 - INFO - Worker 6 | 533433: 8 hospitals so far
+2026-04-28 04:40:44,494 - DEBUG - No new hospitals, scroll_attempts=10
+2026-04-28 04:40:44,508 - DEBUG - Found 8 cards on page
+2026-04-28 04:40:44,551 - INFO - Worker 6 | 533433: 8 hospitals so far
+2026-04-28 04:40:46,556 - DEBUG - No new hospitals, scroll_attempts=11
+2026-04-28 04:40:46,573 - DEBUG - Found 8 cards on page
+2026-04-28 04:40:46,616 - INFO - Worker 6 | 533433: 8 hospitals so far
+2026-04-28 04:40:48,621 - DEBUG - No new hospitals, scroll_attempts=12
+2026-04-28 04:40:48,637 - DEBUG - Found 8 cards on page
+2026-04-28 04:40:48,686 - INFO - Worker 6 | 533433: 8 hospitals so far
+2026-04-28 04:40:50,692 - DEBUG - No new hospitals, scroll_attempts=13
+2026-04-28 04:40:50,705 - DEBUG - Found 8 cards on page
+2026-04-28 04:40:50,748 - INFO - Worker 6 | 533433: 8 hospitals so far
+2026-04-28 04:40:52,767 - DEBUG - No new hospitals, scroll_attempts=14
+2026-04-28 04:40:53,454 - DEBUG - Found 8 cards on page
+2026-04-28 04:40:53,561 - INFO - Worker 6 | 533433: 8 hospitals so far
+2026-04-28 04:40:55,572 - DEBUG - No new hospitals, scroll_attempts=15
+2026-04-28 04:40:56,023 - INFO - Completed 533433 with 8 hospitals
+2026-04-28 04:40:56,919 - INFO - Inserted 8 new businesses for 533433
+2026-04-28 04:40:59,663 - INFO - [6/15] Processing pincode: 533437
+2026-04-28 04:41:00,059 - INFO - Starting scrape for pincode 533437
+2026-04-28 04:41:00,956 - DEBUG - Navigating to https://www.google.co.in/maps/search/hospital+in+533437/
+2026-04-28 04:41:07,612 - DEBUG - Found 8 cards on page
+2026-04-28 04:41:07,620 - DEBUG - Found hospital: Sri Vijayalakshmi Hospital
+2026-04-28 04:41:07,626 - DEBUG - Found hospital: Sri Guru Deva Hospital, Peddapuram
+2026-04-28 04:41:07,632 - DEBUG - Found hospital: SWETCHA HOSPITAL
+2026-04-28 04:41:07,639 - DEBUG - Found hospital: Government General Hospital Peddapuram
+2026-04-28 04:41:07,644 - DEBUG - Found hospital: Sri Adhish hospitals
+2026-04-28 04:41:07,649 - DEBUG - Found hospital: Vedanth Speciality Clinics
+2026-04-28 04:41:07,658 - DEBUG - Found hospital: Sri Srinivasa hospital
+2026-04-28 04:41:07,664 - DEBUG - Found hospital: Aadya Mother and Child Care Hospital
+2026-04-28 04:41:07,664 - INFO - Worker 6 | 533437: 8 hospitals so far
+2026-04-28 04:41:09,728 - DEBUG - Found 8 cards on page
+2026-04-28 04:41:09,774 - INFO - Worker 6 | 533437: 8 hospitals so far
+2026-04-28 04:41:11,779 - DEBUG - No new hospitals, scroll_attempts=1
+2026-04-28 04:41:11,790 - DEBUG - Found 8 cards on page
+2026-04-28 04:41:11,836 - INFO - Worker 6 | 533437: 8 hospitals so far
+2026-04-28 04:41:13,841 - DEBUG - No new hospitals, scroll_attempts=2
+2026-04-28 04:41:13,855 - DEBUG - Found 8 cards on page
+2026-04-28 04:41:13,898 - INFO - Worker 6 | 533437: 8 hospitals so far
+2026-04-28 04:41:15,903 - DEBUG - No new hospitals, scroll_attempts=3
+2026-04-28 04:41:15,919 - DEBUG - Found 8 cards on page
+2026-04-28 04:41:15,956 - INFO - Worker 6 | 533437: 8 hospitals so far
+2026-04-28 04:41:17,960 - DEBUG - No new hospitals, scroll_attempts=4
+2026-04-28 04:41:17,973 - DEBUG - Found 8 cards on page
+2026-04-28 04:41:18,017 - INFO - Worker 6 | 533437: 8 hospitals so far
+2026-04-28 04:41:20,022 - DEBUG - No new hospitals, scroll_attempts=5
+2026-04-28 04:41:20,036 - DEBUG - Found 8 cards on page
+2026-04-28 04:41:20,077 - INFO - Worker 6 | 533437: 8 hospitals so far
+2026-04-28 04:41:22,082 - DEBUG - No new hospitals, scroll_attempts=6
+2026-04-28 04:41:22,096 - DEBUG - Found 8 cards on page
+2026-04-28 04:41:22,137 - INFO - Worker 6 | 533437: 8 hospitals so far
+2026-04-28 04:41:24,142 - DEBUG - No new hospitals, scroll_attempts=7
+2026-04-28 04:41:24,156 - DEBUG - Found 8 cards on page
+2026-04-28 04:41:24,198 - INFO - Worker 6 | 533437: 8 hospitals so far
+2026-04-28 04:41:26,204 - DEBUG - No new hospitals, scroll_attempts=8
+2026-04-28 04:41:26,219 - DEBUG - Found 8 cards on page
+2026-04-28 04:41:26,257 - INFO - Worker 6 | 533437: 8 hospitals so far
+2026-04-28 04:41:28,263 - DEBUG - No new hospitals, scroll_attempts=9
+2026-04-28 04:41:28,278 - DEBUG - Found 8 cards on page
+2026-04-28 04:41:28,321 - INFO - Worker 6 | 533437: 8 hospitals so far
+2026-04-28 04:41:30,325 - DEBUG - No new hospitals, scroll_attempts=10
+2026-04-28 04:41:30,341 - DEBUG - Found 8 cards on page
+2026-04-28 04:41:30,402 - INFO - Worker 6 | 533437: 8 hospitals so far
+2026-04-28 04:41:32,406 - DEBUG - No new hospitals, scroll_attempts=11
+2026-04-28 04:41:32,420 - DEBUG - Found 8 cards on page
+2026-04-28 04:41:32,461 - INFO - Worker 6 | 533437: 8 hospitals so far
+2026-04-28 04:41:34,466 - DEBUG - No new hospitals, scroll_attempts=12
+2026-04-28 04:41:34,480 - DEBUG - Found 8 cards on page
+2026-04-28 04:41:34,527 - INFO - Worker 6 | 533437: 8 hospitals so far
+2026-04-28 04:41:36,532 - DEBUG - No new hospitals, scroll_attempts=13
+2026-04-28 04:41:36,569 - DEBUG - Found 8 cards on page
+2026-04-28 04:41:36,631 - INFO - Worker 6 | 533437: 8 hospitals so far
+2026-04-28 04:41:38,637 - DEBUG - No new hospitals, scroll_attempts=14
+2026-04-28 04:41:38,659 - DEBUG - Found 8 cards on page
+2026-04-28 04:41:38,710 - INFO - Worker 6 | 533437: 8 hospitals so far
+2026-04-28 04:41:40,791 - DEBUG - No new hospitals, scroll_attempts=15
+2026-04-28 04:41:41,133 - INFO - Completed 533437 with 8 hospitals
+2026-04-28 04:41:42,120 - INFO - Inserted 8 new businesses for 533437
+2026-04-28 04:41:45,102 - INFO - [7/15] Processing pincode: 533450
+2026-04-28 04:41:45,914 - INFO - Starting scrape for pincode 533450
+2026-04-28 04:41:46,678 - DEBUG - Navigating to https://www.google.co.in/maps/search/hospital+in+533450/
+2026-04-28 04:41:53,109 - DEBUG - Found 8 cards on page
+2026-04-28 04:41:53,117 - DEBUG - Found hospital: Sri Vishnu Multispeciality Hospital
+2026-04-28 04:41:53,126 - DEBUG - Found hospital: SHINE HOSPITAL
+2026-04-28 04:41:53,133 - DEBUG - Found hospital: Karthikeya hospitals, Pithapuram
+2026-04-28 04:41:53,173 - DEBUG - Found hospital: JGR HOSPITALS
+2026-04-28 04:41:53,189 - DEBUG - Found hospital: Annapurna Talli pillala hospital
+2026-04-28 04:41:53,236 - DEBUG - Found hospital: Divya Multispeciality Hospital (Pithapuram)
+2026-04-28 04:41:53,289 - DEBUG - Found hospital: Sri Sai Bhavani Hospital
+2026-04-28 04:41:53,343 - DEBUG - Found hospital: Vision Multi Specialty Hospital - Pithapuram
+2026-04-28 04:41:53,347 - INFO - Worker 6 | 533450: 8 hospitals so far
+2026-04-28 04:41:55,377 - DEBUG - Found 8 cards on page
+2026-04-28 04:41:55,423 - INFO - Worker 6 | 533450: 8 hospitals so far
+2026-04-28 04:41:57,428 - DEBUG - No new hospitals, scroll_attempts=1
+2026-04-28 04:41:57,444 - DEBUG - Found 8 cards on page
+2026-04-28 04:41:57,490 - INFO - Worker 6 | 533450: 8 hospitals so far
+2026-04-28 04:41:59,495 - DEBUG - No new hospitals, scroll_attempts=2
+2026-04-28 04:41:59,517 - DEBUG - Found 8 cards on page
+2026-04-28 04:41:59,562 - INFO - Worker 6 | 533450: 8 hospitals so far
+2026-04-28 04:42:01,566 - DEBUG - No new hospitals, scroll_attempts=3
+2026-04-28 04:42:01,582 - DEBUG - Found 8 cards on page
+2026-04-28 04:42:01,624 - INFO - Worker 6 | 533450: 8 hospitals so far
+2026-04-28 04:42:03,631 - DEBUG - No new hospitals, scroll_attempts=4
+2026-04-28 04:42:03,647 - DEBUG - Found 8 cards on page
+2026-04-28 04:42:03,692 - INFO - Worker 6 | 533450: 8 hospitals so far
+2026-04-28 04:42:05,697 - DEBUG - No new hospitals, scroll_attempts=5
+2026-04-28 04:42:05,732 - DEBUG - Found 8 cards on page
+2026-04-28 04:42:05,792 - INFO - Worker 6 | 533450: 8 hospitals so far
+2026-04-28 04:42:07,821 - DEBUG - No new hospitals, scroll_attempts=6
+2026-04-28 04:42:07,869 - DEBUG - Found 8 cards on page
+2026-04-28 04:42:07,941 - INFO - Worker 6 | 533450: 8 hospitals so far
+2026-04-28 04:42:09,952 - DEBUG - No new hospitals, scroll_attempts=7
+2026-04-28 04:42:09,968 - DEBUG - Found 8 cards on page
+2026-04-28 04:42:10,014 - INFO - Worker 6 | 533450: 8 hospitals so far
+2026-04-28 04:42:12,018 - DEBUG - No new hospitals, scroll_attempts=8
+2026-04-28 04:42:12,034 - DEBUG - Found 8 cards on page
+2026-04-28 04:42:12,076 - INFO - Worker 6 | 533450: 8 hospitals so far
+2026-04-28 04:42:14,081 - DEBUG - No new hospitals, scroll_attempts=9
+2026-04-28 04:42:14,095 - DEBUG - Found 8 cards on page
+2026-04-28 04:42:14,138 - INFO - Worker 6 | 533450: 8 hospitals so far
+2026-04-28 04:42:16,142 - DEBUG - No new hospitals, scroll_attempts=10
+2026-04-28 04:42:16,153 - DEBUG - Found 8 cards on page
+2026-04-28 04:42:16,198 - INFO - Worker 6 | 533450: 8 hospitals so far
+2026-04-28 04:42:18,203 - DEBUG - No new hospitals, scroll_attempts=11
+2026-04-28 04:42:18,216 - DEBUG - Found 8 cards on page
+2026-04-28 04:42:18,261 - INFO - Worker 6 | 533450: 8 hospitals so far
+2026-04-28 04:42:20,266 - DEBUG - No new hospitals, scroll_attempts=12
+2026-04-28 04:42:20,362 - DEBUG - Found 8 cards on page
+2026-04-28 04:42:20,443 - INFO - Worker 6 | 533450: 8 hospitals so far
+2026-04-28 04:42:22,454 - DEBUG - No new hospitals, scroll_attempts=13
+2026-04-28 04:42:22,504 - DEBUG - Found 8 cards on page
+2026-04-28 04:42:22,630 - INFO - Worker 6 | 533450: 8 hospitals so far
+2026-04-28 04:42:24,638 - DEBUG - No new hospitals, scroll_attempts=14
+2026-04-28 04:42:25,163 - DEBUG - Found 8 cards on page
+2026-04-28 04:42:25,359 - INFO - Worker 6 | 533450: 8 hospitals so far
+2026-04-28 04:42:27,373 - DEBUG - No new hospitals, scroll_attempts=15
+2026-04-28 04:42:27,767 - INFO - Completed 533450 with 8 hospitals
+2026-04-28 04:42:28,308 - INFO - Inserted 8 new businesses for 533450
+2026-04-28 04:42:30,874 - INFO - [8/15] Processing pincode: 503123
+2026-04-28 04:42:31,781 - INFO - Starting scrape for pincode 503123
+2026-04-28 04:42:33,316 - DEBUG - Navigating to https://www.google.co.in/maps/search/hospital+in+503123/
+2026-04-28 04:42:39,803 - DEBUG - Found 8 cards on page
+2026-04-28 04:42:39,811 - DEBUG - Found hospital: Manorama Super Speciality Hospital
+2026-04-28 04:42:39,818 - DEBUG - Found hospital: Medicover Hospitals - Best Hospital in Nizamabad
+2026-04-28 04:42:39,825 - DEBUG - Found hospital: Prudence Hospitals
+2026-04-28 04:42:39,831 - DEBUG - Found hospital: Sri Vishnu Super Speciality Hospital
+2026-04-28 04:42:39,840 - DEBUG - Found hospital: Sunrise Super Speciality Hospital, Nizamabad
+2026-04-28 04:42:39,845 - DEBUG - Found hospital: SRI INDUR MOTHERHOOD & MULTI SPECIALITY HOSPITAL
+2026-04-28 04:42:39,851 - DEBUG - Found hospital: Bombay Nursing Home and Super Speciality Hospital
+2026-04-28 04:42:39,855 - DEBUG - Found hospital: HOPE Super Speciality Hospital
+2026-04-28 04:42:39,855 - INFO - Worker 6 | 503123: 8 hospitals so far
+2026-04-28 04:42:41,880 - DEBUG - Found 8 cards on page
+2026-04-28 04:42:41,926 - INFO - Worker 6 | 503123: 8 hospitals so far
+2026-04-28 04:42:43,932 - DEBUG - No new hospitals, scroll_attempts=1
+2026-04-28 04:42:43,951 - DEBUG - Found 8 cards on page
+2026-04-28 04:42:44,007 - INFO - Worker 6 | 503123: 8 hospitals so far
+2026-04-28 04:42:46,011 - DEBUG - No new hospitals, scroll_attempts=2
+2026-04-28 04:42:46,027 - DEBUG - Found 8 cards on page
+2026-04-28 04:42:46,074 - INFO - Worker 6 | 503123: 8 hospitals so far
+2026-04-28 04:42:48,079 - DEBUG - No new hospitals, scroll_attempts=3
+2026-04-28 04:42:48,379 - DEBUG - Found 8 cards on page
+2026-04-28 04:42:48,500 - INFO - Worker 6 | 503123: 8 hospitals so far
+2026-04-28 04:42:50,506 - DEBUG - No new hospitals, scroll_attempts=4
+2026-04-28 04:42:50,523 - DEBUG - Found 8 cards on page
+2026-04-28 04:42:50,563 - INFO - Worker 6 | 503123: 8 hospitals so far
+2026-04-28 04:42:52,568 - DEBUG - No new hospitals, scroll_attempts=5
+2026-04-28 04:42:52,583 - DEBUG - Found 8 cards on page
+2026-04-28 04:42:52,625 - INFO - Worker 6 | 503123: 8 hospitals so far
+2026-04-28 04:42:54,629 - DEBUG - No new hospitals, scroll_attempts=6
+2026-04-28 04:42:54,723 - DEBUG - Found 8 cards on page
+2026-04-28 04:42:55,061 - INFO - Worker 6 | 503123: 8 hospitals so far
+2026-04-28 04:42:57,065 - DEBUG - No new hospitals, scroll_attempts=7
+2026-04-28 04:42:57,084 - DEBUG - Found 8 cards on page
+2026-04-28 04:42:57,154 - INFO - Worker 6 | 503123: 8 hospitals so far
+2026-04-28 04:42:59,479 - DEBUG - No new hospitals, scroll_attempts=8
+2026-04-28 04:42:59,494 - DEBUG - Found 8 cards on page
+2026-04-28 04:42:59,539 - INFO - Worker 6 | 503123: 8 hospitals so far
+2026-04-28 04:43:01,544 - DEBUG - No new hospitals, scroll_attempts=9
+2026-04-28 04:43:01,562 - DEBUG - Found 8 cards on page
+2026-04-28 04:43:01,609 - INFO - Worker 6 | 503123: 8 hospitals so far
+2026-04-28 04:43:03,614 - DEBUG - No new hospitals, scroll_attempts=10
+2026-04-28 04:43:03,629 - DEBUG - Found 8 cards on page
+2026-04-28 04:43:03,681 - INFO - Worker 6 | 503123: 8 hospitals so far
+2026-04-28 04:43:05,686 - DEBUG - No new hospitals, scroll_attempts=11
+2026-04-28 04:43:05,705 - DEBUG - Found 8 cards on page
+2026-04-28 04:43:05,751 - INFO - Worker 6 | 503123: 8 hospitals so far
+2026-04-28 04:43:07,784 - DEBUG - No new hospitals, scroll_attempts=12
+2026-04-28 04:43:07,798 - DEBUG - Found 8 cards on page
+2026-04-28 04:43:07,847 - INFO - Worker 6 | 503123: 8 hospitals so far
+2026-04-28 04:43:09,853 - DEBUG - No new hospitals, scroll_attempts=13
+2026-04-28 04:43:09,890 - DEBUG - Found 8 cards on page
+2026-04-28 04:43:10,011 - INFO - Worker 6 | 503123: 8 hospitals so far
+2026-04-28 04:43:12,026 - DEBUG - No new hospitals, scroll_attempts=14
+2026-04-28 04:43:12,041 - DEBUG - Found 8 cards on page
+2026-04-28 04:43:12,091 - INFO - Worker 6 | 503123: 8 hospitals so far
+2026-04-28 04:43:14,095 - DEBUG - No new hospitals, scroll_attempts=15
+2026-04-28 04:43:14,838 - INFO - Completed 503123 with 8 hospitals
+2026-04-28 04:43:18,860 - INFO - Inserted 8 new businesses for 503123
+2026-04-28 04:43:23,611 - INFO - [9/15] Processing pincode: 533436
+2026-04-28 04:43:31,299 - INFO - Starting scrape for pincode 533436
+2026-04-28 04:43:36,561 - DEBUG - Navigating to https://www.google.co.in/maps/search/hospital+in+533436/
+2026-04-28 04:43:42,803 - DEBUG - Found 8 cards on page
+2026-04-28 04:43:42,811 - DEBUG - Found hospital: Sri Vijayalakshmi Multispeciality Hospital
+2026-04-28 04:43:42,823 - DEBUG - Found hospital: ADITYA MULTI SPECIALITY HOSPITAL GOKAVARAM
+2026-04-28 04:43:42,832 - DEBUG - Found hospital: Manjeera Super Specialty Hospitals
+2026-04-28 04:43:42,845 - DEBUG - Found hospital: Government hospital
+2026-04-28 04:43:42,854 - DEBUG - Found hospital: Trinity Hospitals
+2026-04-28 04:43:42,863 - DEBUG - Found hospital: Swatantra Hospital multi specialty pvt ltd
+2026-04-28 04:43:42,872 - DEBUG - Found hospital: Dr. Chinnabbai gari Hospital
+2026-04-28 04:43:42,879 - DEBUG - Found hospital: Sri Vishnu Multispeciality Hospital
+2026-04-28 04:43:42,879 - INFO - Worker 6 | 533436: 8 hospitals so far
+2026-04-28 04:43:44,901 - DEBUG - Found 8 cards on page
+2026-04-28 04:43:44,944 - INFO - Worker 6 | 533436: 8 hospitals so far
+2026-04-28 04:43:46,949 - DEBUG - No new hospitals, scroll_attempts=1
+2026-04-28 04:43:46,964 - DEBUG - Found 8 cards on page
+2026-04-28 04:43:47,011 - INFO - Worker 6 | 533436: 8 hospitals so far
+2026-04-28 04:43:49,016 - DEBUG - No new hospitals, scroll_attempts=2
+2026-04-28 04:43:49,070 - DEBUG - Found 8 cards on page
+2026-04-28 04:43:49,118 - INFO - Worker 6 | 533436: 8 hospitals so far
+2026-04-28 04:43:51,122 - DEBUG - No new hospitals, scroll_attempts=3
+2026-04-28 04:43:51,140 - DEBUG - Found 8 cards on page
+2026-04-28 04:43:51,189 - INFO - Worker 6 | 533436: 8 hospitals so far
+2026-04-28 04:43:53,196 - DEBUG - No new hospitals, scroll_attempts=4
+2026-04-28 04:43:53,221 - DEBUG - Found 8 cards on page
+2026-04-28 04:43:53,269 - INFO - Worker 6 | 533436: 8 hospitals so far
+2026-04-28 04:43:55,273 - DEBUG - No new hospitals, scroll_attempts=5
+2026-04-28 04:43:55,287 - DEBUG - Found 8 cards on page
+2026-04-28 04:43:55,340 - INFO - Worker 6 | 533436: 8 hospitals so far
+2026-04-28 04:43:57,352 - DEBUG - No new hospitals, scroll_attempts=6
+2026-04-28 04:43:57,365 - DEBUG - Found 8 cards on page
+2026-04-28 04:43:57,412 - INFO - Worker 6 | 533436: 8 hospitals so far
+2026-04-28 04:43:59,416 - DEBUG - No new hospitals, scroll_attempts=7
+2026-04-28 04:43:59,440 - DEBUG - Found 8 cards on page
+2026-04-28 04:43:59,508 - INFO - Worker 6 | 533436: 8 hospitals so far
+2026-04-28 04:44:01,514 - DEBUG - No new hospitals, scroll_attempts=8
+2026-04-28 04:44:01,535 - DEBUG - Found 8 cards on page
+2026-04-28 04:44:01,594 - INFO - Worker 6 | 533436: 8 hospitals so far
+2026-04-28 04:44:03,600 - DEBUG - No new hospitals, scroll_attempts=9
+2026-04-28 04:44:03,614 - DEBUG - Found 8 cards on page
+2026-04-28 04:44:03,661 - INFO - Worker 6 | 533436: 8 hospitals so far
+2026-04-28 04:44:05,666 - DEBUG - No new hospitals, scroll_attempts=10
+2026-04-28 04:44:05,679 - DEBUG - Found 8 cards on page
+2026-04-28 04:44:05,719 - INFO - Worker 6 | 533436: 8 hospitals so far
+2026-04-28 04:44:07,725 - DEBUG - No new hospitals, scroll_attempts=11
+2026-04-28 04:44:07,740 - DEBUG - Found 8 cards on page
+2026-04-28 04:44:07,784 - INFO - Worker 6 | 533436: 8 hospitals so far
+2026-04-28 04:44:09,788 - DEBUG - No new hospitals, scroll_attempts=12
+2026-04-28 04:44:09,803 - DEBUG - Found 8 cards on page
+2026-04-28 04:44:09,849 - INFO - Worker 6 | 533436: 8 hospitals so far
+2026-04-28 04:44:11,853 - DEBUG - No new hospitals, scroll_attempts=13
+2026-04-28 04:44:11,866 - DEBUG - Found 8 cards on page
+2026-04-28 04:44:11,908 - INFO - Worker 6 | 533436: 8 hospitals so far
+2026-04-28 04:44:13,912 - DEBUG - No new hospitals, scroll_attempts=14
+2026-04-28 04:44:13,971 - DEBUG - Found 8 cards on page
+2026-04-28 04:44:14,015 - INFO - Worker 6 | 533436: 8 hospitals so far
+2026-04-28 04:44:16,054 - DEBUG - No new hospitals, scroll_attempts=15
+2026-04-28 04:44:19,539 - INFO - Completed 533436 with 8 hospitals
+2026-04-28 04:44:21,024 - INFO - Inserted 8 new businesses for 533436
+2026-04-28 04:44:23,525 - INFO - [10/15] Processing pincode: 533291
+2026-04-28 04:44:25,192 - INFO - Starting scrape for pincode 533291
+2026-04-28 04:44:28,315 - DEBUG - Navigating to https://www.google.co.in/maps/search/hospital+in+533291/
+2026-04-28 04:44:34,689 - DEBUG - Found 8 cards on page
+2026-04-28 04:44:34,696 - DEBUG - Found hospital: Sri Vijayalakshmi Multispeciality Hospital
+2026-04-28 04:44:34,703 - DEBUG - Found hospital: Swatantra Hospital multi specialty pvt ltd
+2026-04-28 04:44:34,706 - DEBUG - Found hospital: SAI HOSPITALS
+2026-04-28 04:44:34,715 - DEBUG - Found hospital: Lion Eye Care Hospital
+2026-04-28 04:44:34,724 - DEBUG - Found hospital: Surareddy Nursing Home
+2026-04-28 04:44:34,729 - DEBUG - Found hospital: SUNSTAR HOSPITALS
+2026-04-28 04:44:34,736 - DEBUG - Found hospital: Trinity Hospitals
+2026-04-28 04:44:34,743 - DEBUG - Found hospital: SVASTHA Emergency & Multi-speciality Hospital
+2026-04-28 04:44:34,743 - INFO - Worker 6 | 533291: 8 hospitals so far
+2026-04-28 04:44:36,788 - DEBUG - Found 8 cards on page
+2026-04-28 04:44:36,881 - INFO - Worker 6 | 533291: 8 hospitals so far
+2026-04-28 04:44:38,893 - DEBUG - No new hospitals, scroll_attempts=1
+2026-04-28 04:44:39,305 - DEBUG - Found 8 cards on page
+2026-04-28 04:44:39,352 - INFO - Worker 6 | 533291: 8 hospitals so far
+2026-04-28 04:44:41,357 - DEBUG - No new hospitals, scroll_attempts=2
+2026-04-28 04:44:41,373 - DEBUG - Found 8 cards on page
+2026-04-28 04:44:41,424 - INFO - Worker 6 | 533291: 8 hospitals so far
+2026-04-28 04:44:43,429 - DEBUG - No new hospitals, scroll_attempts=3
+2026-04-28 04:44:43,443 - DEBUG - Found 8 cards on page
+2026-04-28 04:44:43,488 - INFO - Worker 6 | 533291: 8 hospitals so far
+2026-04-28 04:44:45,494 - DEBUG - No new hospitals, scroll_attempts=4
+2026-04-28 04:44:45,508 - DEBUG - Found 8 cards on page
+2026-04-28 04:44:45,600 - INFO - Worker 6 | 533291: 8 hospitals so far
+2026-04-28 04:44:47,608 - DEBUG - No new hospitals, scroll_attempts=5
+2026-04-28 04:44:47,619 - DEBUG - Found 8 cards on page
+2026-04-28 04:44:47,669 - INFO - Worker 6 | 533291: 8 hospitals so far
+2026-04-28 04:44:49,675 - DEBUG - No new hospitals, scroll_attempts=6
+2026-04-28 04:44:49,688 - DEBUG - Found 8 cards on page
+2026-04-28 04:44:49,731 - INFO - Worker 6 | 533291: 8 hospitals so far
+2026-04-28 04:44:51,737 - DEBUG - No new hospitals, scroll_attempts=7
+2026-04-28 04:44:51,796 - DEBUG - Found 8 cards on page
+2026-04-28 04:44:51,915 - INFO - Worker 6 | 533291: 8 hospitals so far
+2026-04-28 04:44:53,922 - DEBUG - No new hospitals, scroll_attempts=8
+2026-04-28 04:44:53,938 - DEBUG - Found 8 cards on page
+2026-04-28 04:44:53,982 - INFO - Worker 6 | 533291: 8 hospitals so far
+2026-04-28 04:44:55,987 - DEBUG - No new hospitals, scroll_attempts=9
+2026-04-28 04:44:56,000 - DEBUG - Found 8 cards on page
+2026-04-28 04:44:56,039 - INFO - Worker 6 | 533291: 8 hospitals so far
+2026-04-28 04:44:58,048 - DEBUG - No new hospitals, scroll_attempts=10
+2026-04-28 04:44:58,067 - DEBUG - Found 8 cards on page
+2026-04-28 04:44:58,116 - INFO - Worker 6 | 533291: 8 hospitals so far
+2026-04-28 04:45:00,121 - DEBUG - No new hospitals, scroll_attempts=11
+2026-04-28 04:45:00,140 - DEBUG - Found 8 cards on page
+2026-04-28 04:45:00,188 - INFO - Worker 6 | 533291: 8 hospitals so far
+2026-04-28 04:45:02,193 - DEBUG - No new hospitals, scroll_attempts=12
+2026-04-28 04:45:02,217 - DEBUG - Found 8 cards on page
+2026-04-28 04:45:02,279 - INFO - Worker 6 | 533291: 8 hospitals so far
+2026-04-28 04:45:04,294 - DEBUG - No new hospitals, scroll_attempts=13
+2026-04-28 04:45:04,312 - DEBUG - Found 8 cards on page
+2026-04-28 04:45:04,360 - INFO - Worker 6 | 533291: 8 hospitals so far
+2026-04-28 04:45:06,367 - DEBUG - No new hospitals, scroll_attempts=14
+2026-04-28 04:45:06,511 - DEBUG - Found 8 cards on page
+2026-04-28 04:45:06,668 - INFO - Worker 6 | 533291: 8 hospitals so far
+2026-04-28 04:45:08,686 - DEBUG - No new hospitals, scroll_attempts=15
+2026-04-28 04:45:09,002 - INFO - Completed 533291 with 8 hospitals
+2026-04-28 04:45:10,582 - INFO - Inserted 8 new businesses for 533291
+2026-04-28 04:45:13,073 - INFO - [11/15] Processing pincode: 533446
+2026-04-28 04:45:13,930 - INFO - Starting scrape for pincode 533446
+2026-04-28 04:45:15,108 - DEBUG - Navigating to https://www.google.co.in/maps/search/hospital+in+533446/
+2026-04-28 04:45:21,317 - DEBUG - Found 8 cards on page
+2026-04-28 04:45:21,325 - DEBUG - Found hospital: Surya Emergency Hospital
+2026-04-28 04:45:21,335 - DEBUG - Found hospital: Sri Vijayalakshmi Multispeciality Hospital
+2026-04-28 04:45:21,343 - DEBUG - Found hospital: Sri Vishnu Multispeciality Hospital
+2026-04-28 04:45:21,353 - DEBUG - Found hospital: ADITYA MULTI SPECIALITY HOSPITAL GOKAVARAM
+2026-04-28 04:45:21,364 - DEBUG - Found hospital: Trinity Hospitals
+2026-04-28 04:45:21,371 - DEBUG - Found hospital: Community Health Centre
+2026-04-28 04:45:21,380 - DEBUG - Found hospital: Kushi Multispeciality Hospital
+2026-04-28 04:45:21,389 - DEBUG - Found hospital: Annapurna Talli pillala hospital
+2026-04-28 04:45:21,391 - INFO - Worker 6 | 533446: 8 hospitals so far
+2026-04-28 04:45:23,414 - DEBUG - Found 8 cards on page
+2026-04-28 04:45:23,456 - INFO - Worker 6 | 533446: 8 hospitals so far
+2026-04-28 04:45:25,464 - DEBUG - No new hospitals, scroll_attempts=1
+2026-04-28 04:45:25,477 - DEBUG - Found 8 cards on page
+2026-04-28 04:45:25,538 - INFO - Worker 6 | 533446: 8 hospitals so far
+2026-04-28 04:45:27,542 - DEBUG - No new hospitals, scroll_attempts=2
+2026-04-28 04:45:27,556 - DEBUG - Found 8 cards on page
+2026-04-28 04:45:27,602 - INFO - Worker 6 | 533446: 8 hospitals so far
+2026-04-28 04:45:29,606 - DEBUG - No new hospitals, scroll_attempts=3
+2026-04-28 04:45:29,723 - DEBUG - Found 8 cards on page
+2026-04-28 04:45:29,851 - INFO - Worker 6 | 533446: 8 hospitals so far
+2026-04-28 04:45:31,866 - DEBUG - No new hospitals, scroll_attempts=4
+2026-04-28 04:45:31,891 - DEBUG - Found 8 cards on page
+2026-04-28 04:45:31,932 - INFO - Worker 6 | 533446: 8 hospitals so far
+2026-04-28 04:45:33,938 - DEBUG - No new hospitals, scroll_attempts=5
+2026-04-28 04:45:33,952 - DEBUG - Found 8 cards on page
+2026-04-28 04:45:34,002 - INFO - Worker 6 | 533446: 8 hospitals so far
+2026-04-28 04:45:36,007 - DEBUG - No new hospitals, scroll_attempts=6
+2026-04-28 04:45:36,024 - DEBUG - Found 8 cards on page
+2026-04-28 04:45:36,066 - INFO - Worker 6 | 533446: 8 hospitals so far
+2026-04-28 04:45:38,070 - DEBUG - No new hospitals, scroll_attempts=7
+2026-04-28 04:45:38,085 - DEBUG - Found 8 cards on page
+2026-04-28 04:45:38,131 - INFO - Worker 6 | 533446: 8 hospitals so far
+2026-04-28 04:45:40,135 - DEBUG - No new hospitals, scroll_attempts=8
+2026-04-28 04:45:40,148 - DEBUG - Found 8 cards on page
+2026-04-28 04:45:40,193 - INFO - Worker 6 | 533446: 8 hospitals so far
+2026-04-28 04:45:42,198 - DEBUG - No new hospitals, scroll_attempts=9
+2026-04-28 04:45:42,217 - DEBUG - Found 8 cards on page
+2026-04-28 04:45:42,291 - INFO - Worker 6 | 533446: 8 hospitals so far
+2026-04-28 04:45:44,296 - DEBUG - No new hospitals, scroll_attempts=10
+2026-04-28 04:45:44,336 - DEBUG - Found 8 cards on page
+2026-04-28 04:45:44,383 - INFO - Worker 6 | 533446: 8 hospitals so far
+2026-04-28 04:45:46,393 - DEBUG - No new hospitals, scroll_attempts=11
+2026-04-28 04:45:46,404 - DEBUG - Found 8 cards on page
+2026-04-28 04:45:46,447 - INFO - Worker 6 | 533446: 8 hospitals so far
+2026-04-28 04:45:48,453 - DEBUG - No new hospitals, scroll_attempts=12
+2026-04-28 04:45:48,468 - DEBUG - Found 8 cards on page
+2026-04-28 04:45:48,513 - INFO - Worker 6 | 533446: 8 hospitals so far
+2026-04-28 04:45:50,518 - DEBUG - No new hospitals, scroll_attempts=13
+2026-04-28 04:45:50,532 - DEBUG - Found 8 cards on page
+2026-04-28 04:45:50,578 - INFO - Worker 6 | 533446: 8 hospitals so far
+2026-04-28 04:45:52,583 - DEBUG - No new hospitals, scroll_attempts=14
+2026-04-28 04:45:52,597 - DEBUG - Found 8 cards on page
+2026-04-28 04:45:52,641 - INFO - Worker 6 | 533446: 8 hospitals so far
+2026-04-28 04:45:54,647 - DEBUG - No new hospitals, scroll_attempts=15
+2026-04-28 04:45:54,869 - INFO - Completed 533446 with 8 hospitals
+2026-04-28 04:45:55,096 - INFO - Inserted 8 new businesses for 533446
+2026-04-28 04:45:57,291 - INFO - [12/15] Processing pincode: 533401
+2026-04-28 04:45:57,602 - INFO - Starting scrape for pincode 533401
+2026-04-28 04:45:58,574 - DEBUG - Navigating to https://www.google.co.in/maps/search/hospital+in+533401/
+2026-04-28 04:46:05,122 - DEBUG - Found 8 cards on page
+2026-04-28 04:46:05,161 - DEBUG - Found hospital: mamata multispeciality hospital
+2026-04-28 04:46:05,183 - DEBUG - Found hospital: Sri lakshmi general hospital
+2026-04-28 04:46:05,223 - DEBUG - Found hospital: ARKA Emergency Hospital
+2026-04-28 04:46:05,235 - DEBUG - Found hospital: Government Area Hospital, Tuni
+2026-04-28 04:46:05,250 - DEBUG - Found hospital: Suresh Kumar Hospital
+2026-04-28 04:46:05,261 - DEBUG - Found hospital: Shankar children's hospital
+2026-04-28 04:46:05,273 - DEBUG - Found hospital: ADITYA MULTI SPECIALITY HOSPITAL GOKAVARAM
+2026-04-28 04:46:05,291 - DEBUG - Found hospital: Tirumala Hospital
+2026-04-28 04:46:05,291 - INFO - Worker 6 | 533401: 8 hospitals so far
+2026-04-28 04:46:07,322 - DEBUG - Found 8 cards on page
+2026-04-28 04:46:07,388 - INFO - Worker 6 | 533401: 8 hospitals so far
+2026-04-28 04:46:09,392 - DEBUG - No new hospitals, scroll_attempts=1
+2026-04-28 04:46:09,411 - DEBUG - Found 8 cards on page
+2026-04-28 04:46:09,459 - INFO - Worker 6 | 533401: 8 hospitals so far
+2026-04-28 04:46:11,464 - DEBUG - No new hospitals, scroll_attempts=2
+2026-04-28 04:46:11,505 - DEBUG - Found 8 cards on page
+2026-04-28 04:46:11,555 - INFO - Worker 6 | 533401: 8 hospitals so far
+2026-04-28 04:46:13,560 - DEBUG - No new hospitals, scroll_attempts=3
+2026-04-28 04:46:13,578 - DEBUG - Found 8 cards on page
+2026-04-28 04:46:13,627 - INFO - Worker 6 | 533401: 8 hospitals so far
+2026-04-28 04:46:15,632 - DEBUG - No new hospitals, scroll_attempts=4
+2026-04-28 04:46:15,671 - DEBUG - Found 8 cards on page
+2026-04-28 04:46:15,734 - INFO - Worker 6 | 533401: 8 hospitals so far
+2026-04-28 04:46:17,757 - DEBUG - No new hospitals, scroll_attempts=5
+2026-04-28 04:46:17,782 - DEBUG - Found 8 cards on page
+2026-04-28 04:46:17,864 - INFO - Worker 6 | 533401: 8 hospitals so far
+2026-04-28 04:46:19,875 - DEBUG - No new hospitals, scroll_attempts=6
+2026-04-28 04:46:19,889 - DEBUG - Found 8 cards on page
+2026-04-28 04:46:19,961 - INFO - Worker 6 | 533401: 8 hospitals so far
+2026-04-28 04:46:22,009 - DEBUG - No new hospitals, scroll_attempts=7
+2026-04-28 04:46:22,026 - DEBUG - Found 8 cards on page
+2026-04-28 04:46:22,077 - INFO - Worker 6 | 533401: 8 hospitals so far
+2026-04-28 04:46:24,081 - DEBUG - No new hospitals, scroll_attempts=8
+2026-04-28 04:46:24,102 - DEBUG - Found 8 cards on page
+2026-04-28 04:46:24,158 - INFO - Worker 6 | 533401: 8 hospitals so far
+2026-04-28 04:46:26,171 - DEBUG - No new hospitals, scroll_attempts=9
+2026-04-28 04:46:26,206 - DEBUG - Found 8 cards on page
+2026-04-28 04:46:26,266 - INFO - Worker 6 | 533401: 8 hospitals so far
+2026-04-28 04:46:28,272 - DEBUG - No new hospitals, scroll_attempts=10
+2026-04-28 04:46:28,287 - DEBUG - Found 8 cards on page
+2026-04-28 04:46:28,353 - INFO - Worker 6 | 533401: 8 hospitals so far
+2026-04-28 04:46:30,358 - DEBUG - No new hospitals, scroll_attempts=11
+2026-04-28 04:46:30,397 - DEBUG - Found 8 cards on page
+2026-04-28 04:46:30,446 - INFO - Worker 6 | 533401: 8 hospitals so far
+2026-04-28 04:46:32,451 - DEBUG - No new hospitals, scroll_attempts=12
+2026-04-28 04:46:32,464 - DEBUG - Found 8 cards on page
+2026-04-28 04:46:32,506 - INFO - Worker 6 | 533401: 8 hospitals so far
+2026-04-28 04:46:34,511 - DEBUG - No new hospitals, scroll_attempts=13
+2026-04-28 04:46:34,532 - DEBUG - Found 8 cards on page
+2026-04-28 04:46:34,587 - INFO - Worker 6 | 533401: 8 hospitals so far
+2026-04-28 04:46:36,591 - DEBUG - No new hospitals, scroll_attempts=14
+2026-04-28 04:46:36,633 - DEBUG - Found 8 cards on page
+2026-04-28 04:46:36,703 - INFO - Worker 6 | 533401: 8 hospitals so far
+2026-04-28 04:46:38,711 - DEBUG - No new hospitals, scroll_attempts=15
+2026-04-28 04:46:39,025 - INFO - Completed 533401 with 8 hospitals
+2026-04-28 04:46:40,091 - INFO - Inserted 8 new businesses for 533401
+2026-04-28 04:46:42,359 - INFO - [13/15] Processing pincode: 533448
+2026-04-28 04:46:42,624 - INFO - Starting scrape for pincode 533448
+2026-04-28 04:46:43,525 - DEBUG - Navigating to https://www.google.co.in/maps/search/hospital+in+533448/
+2026-04-28 04:46:50,473 - DEBUG - Found 8 cards on page
+2026-04-28 04:46:50,481 - DEBUG - Found hospital: SURAKSHA HOSPITAL
+2026-04-28 04:46:50,488 - DEBUG - Found hospital: Isana Hospital
+2026-04-28 04:46:50,490 - DEBUG - Found hospital: Trinity Hospitals
+2026-04-28 04:46:50,502 - DEBUG - Found hospital: Sri Vishnu Multispeciality Hospital
+2026-04-28 04:46:50,508 - DEBUG - Found hospital: Annapurna Talli pillala hospital
+2026-04-28 04:46:50,515 - DEBUG - Found hospital: Karthikeya hospitals, Pithapuram
+2026-04-28 04:46:50,522 - DEBUG - Found hospital: Kushi Multispeciality Hospital
+2026-04-28 04:46:50,527 - DEBUG - Found hospital: Sri Vijayalakshmi Multispeciality Hospital
+2026-04-28 04:46:50,527 - INFO - Worker 6 | 533448: 8 hospitals so far
+2026-04-28 04:46:52,550 - DEBUG - Found 8 cards on page
+2026-04-28 04:46:52,596 - INFO - Worker 6 | 533448: 8 hospitals so far
+2026-04-28 04:46:54,601 - DEBUG - No new hospitals, scroll_attempts=1
+2026-04-28 04:46:54,614 - DEBUG - Found 8 cards on page
+2026-04-28 04:46:54,660 - INFO - Worker 6 | 533448: 8 hospitals so far
+2026-04-28 04:46:56,666 - DEBUG - No new hospitals, scroll_attempts=2
+2026-04-28 04:46:56,683 - DEBUG - Found 8 cards on page
+2026-04-28 04:46:56,731 - INFO - Worker 6 | 533448: 8 hospitals so far
+2026-04-28 04:46:58,736 - DEBUG - No new hospitals, scroll_attempts=3
+2026-04-28 04:46:58,758 - DEBUG - Found 8 cards on page
+2026-04-28 04:46:58,809 - INFO - Worker 6 | 533448: 8 hospitals so far
+2026-04-28 04:47:00,815 - DEBUG - No new hospitals, scroll_attempts=4
+2026-04-28 04:47:00,873 - DEBUG - Found 8 cards on page
+2026-04-28 04:47:01,148 - INFO - Worker 6 | 533448: 8 hospitals so far
+2026-04-28 04:47:03,179 - DEBUG - No new hospitals, scroll_attempts=5
+2026-04-28 04:47:03,284 - DEBUG - Found 8 cards on page
+2026-04-28 04:47:03,376 - INFO - Worker 6 | 533448: 8 hospitals so far
+2026-04-28 04:47:05,430 - DEBUG - No new hospitals, scroll_attempts=6
+2026-04-28 04:47:05,475 - DEBUG - Found 8 cards on page
+2026-04-28 04:47:05,573 - INFO - Worker 6 | 533448: 8 hospitals so far
+2026-04-28 04:47:07,586 - DEBUG - No new hospitals, scroll_attempts=7
+2026-04-28 04:47:07,607 - DEBUG - Found 8 cards on page
+2026-04-28 04:47:07,655 - INFO - Worker 6 | 533448: 8 hospitals so far
+2026-04-28 04:47:09,662 - DEBUG - No new hospitals, scroll_attempts=8
+2026-04-28 04:47:09,677 - DEBUG - Found 8 cards on page
+2026-04-28 04:47:09,723 - INFO - Worker 6 | 533448: 8 hospitals so far
+2026-04-28 04:47:11,729 - DEBUG - No new hospitals, scroll_attempts=9
+2026-04-28 04:47:11,743 - DEBUG - Found 8 cards on page
+2026-04-28 04:47:11,789 - INFO - Worker 6 | 533448: 8 hospitals so far
+2026-04-28 04:47:13,794 - DEBUG - No new hospitals, scroll_attempts=10
+2026-04-28 04:47:13,807 - DEBUG - Found 8 cards on page
+2026-04-28 04:47:13,850 - INFO - Worker 6 | 533448: 8 hospitals so far
+2026-04-28 04:47:15,856 - DEBUG - No new hospitals, scroll_attempts=11
+2026-04-28 04:47:15,872 - DEBUG - Found 8 cards on page
+2026-04-28 04:47:15,934 - INFO - Worker 6 | 533448: 8 hospitals so far
+2026-04-28 04:47:17,939 - DEBUG - No new hospitals, scroll_attempts=12
+2026-04-28 04:47:18,000 - DEBUG - Found 8 cards on page
+2026-04-28 04:47:18,176 - INFO - Worker 6 | 533448: 8 hospitals so far
+2026-04-28 04:47:20,182 - DEBUG - No new hospitals, scroll_attempts=13
+2026-04-28 04:47:20,200 - DEBUG - Found 8 cards on page
+2026-04-28 04:47:20,252 - INFO - Worker 6 | 533448: 8 hospitals so far
+2026-04-28 04:47:22,257 - DEBUG - No new hospitals, scroll_attempts=14
+2026-04-28 04:47:22,272 - DEBUG - Found 8 cards on page
+2026-04-28 04:47:22,319 - INFO - Worker 6 | 533448: 8 hospitals so far
+2026-04-28 04:47:24,326 - DEBUG - No new hospitals, scroll_attempts=15
+2026-04-28 04:47:24,678 - INFO - Completed 533448 with 8 hospitals
+2026-04-28 04:47:26,764 - INFO - Inserted 8 new businesses for 533448
+2026-04-28 04:47:29,148 - INFO - [14/15] Processing pincode: 533434
+2026-04-28 04:47:29,648 - INFO - Starting scrape for pincode 533434
+2026-04-28 04:47:31,361 - DEBUG - Navigating to https://www.google.co.in/maps/search/hospital+in+533434/
+2026-04-28 04:47:37,843 - DEBUG - Found 8 cards on page
+2026-04-28 04:47:37,855 - DEBUG - Found hospital: CDR SUPER SPECIALITY HOSPITAL
+2026-04-28 04:47:37,864 - DEBUG - Found hospital: GODAVARI HOSPITAL - NEURO, CARDIAC & EMERGENCY CENTER
+2026-04-28 04:47:37,869 - DEBUG - Found hospital: Apollo Hospitals | Best Hospital in Kakinada
+2026-04-28 04:47:37,877 - DEBUG - Found hospital: Trust Hospital
+2026-04-28 04:47:37,882 - DEBUG - Found hospital: KIMS Hospital
+2026-04-28 04:47:37,888 - DEBUG - Found hospital: Laxmi Hospital
+2026-04-28 04:47:37,894 - DEBUG - Found hospital: Sree Latha Hospitals
+2026-04-28 04:47:37,900 - DEBUG - Found hospital: Vaddadi Hospital
+2026-04-28 04:47:37,900 - INFO - Worker 6 | 533434: 8 hospitals so far
+2026-04-28 04:47:39,919 - DEBUG - Found 8 cards on page
+2026-04-28 04:47:39,963 - INFO - Worker 6 | 533434: 8 hospitals so far
+2026-04-28 04:47:41,967 - DEBUG - No new hospitals, scroll_attempts=1
+2026-04-28 04:47:41,985 - DEBUG - Found 8 cards on page
+2026-04-28 04:47:42,032 - INFO - Worker 6 | 533434: 8 hospitals so far
+2026-04-28 04:47:44,041 - DEBUG - No new hospitals, scroll_attempts=2
+2026-04-28 04:47:44,056 - DEBUG - Found 8 cards on page
+2026-04-28 04:47:44,105 - INFO - Worker 6 | 533434: 8 hospitals so far
+2026-04-28 04:47:46,110 - DEBUG - No new hospitals, scroll_attempts=3
+2026-04-28 04:47:46,367 - DEBUG - Found 8 cards on page
+2026-04-28 04:47:46,435 - INFO - Worker 6 | 533434: 8 hospitals so far
+2026-04-28 04:47:48,443 - DEBUG - No new hospitals, scroll_attempts=4
+2026-04-28 04:47:48,481 - DEBUG - Found 8 cards on page
+2026-04-28 04:47:48,544 - INFO - Worker 6 | 533434: 8 hospitals so far
+2026-04-28 04:47:50,549 - DEBUG - No new hospitals, scroll_attempts=5
+2026-04-28 04:47:50,608 - DEBUG - Found 8 cards on page
+2026-04-28 04:47:50,662 - INFO - Worker 6 | 533434: 8 hospitals so far
+2026-04-28 04:47:52,667 - DEBUG - No new hospitals, scroll_attempts=6
+2026-04-28 04:47:52,682 - DEBUG - Found 8 cards on page
+2026-04-28 04:47:52,728 - INFO - Worker 6 | 533434: 8 hospitals so far
+2026-04-28 04:47:54,733 - DEBUG - No new hospitals, scroll_attempts=7
+2026-04-28 04:47:54,749 - DEBUG - Found 8 cards on page
+2026-04-28 04:47:54,808 - INFO - Worker 6 | 533434: 8 hospitals so far
+2026-04-28 04:47:56,828 - DEBUG - No new hospitals, scroll_attempts=8
+2026-04-28 04:47:56,842 - DEBUG - Found 8 cards on page
+2026-04-28 04:47:56,900 - INFO - Worker 6 | 533434: 8 hospitals so far
+2026-04-28 04:47:58,906 - DEBUG - No new hospitals, scroll_attempts=9
+2026-04-28 04:47:59,148 - DEBUG - Found 8 cards on page
+2026-04-28 04:47:59,207 - INFO - Worker 6 | 533434: 8 hospitals so far
+2026-04-28 04:48:01,219 - DEBUG - No new hospitals, scroll_attempts=10
+2026-04-28 04:48:01,325 - DEBUG - Found 8 cards on page
+2026-04-28 04:48:01,371 - INFO - Worker 6 | 533434: 8 hospitals so far
+2026-04-28 04:48:03,375 - DEBUG - No new hospitals, scroll_attempts=11
+2026-04-28 04:48:03,392 - DEBUG - Found 8 cards on page
+2026-04-28 04:48:03,635 - INFO - Worker 6 | 533434: 8 hospitals so far
+2026-04-28 04:48:05,655 - DEBUG - No new hospitals, scroll_attempts=12
+2026-04-28 04:48:05,696 - DEBUG - Found 8 cards on page
+2026-04-28 04:48:05,759 - INFO - Worker 6 | 533434: 8 hospitals so far
+2026-04-28 04:48:07,763 - DEBUG - No new hospitals, scroll_attempts=13
+2026-04-28 04:48:07,779 - DEBUG - Found 8 cards on page
+2026-04-28 04:48:07,930 - INFO - Worker 6 | 533434: 8 hospitals so far
+2026-04-28 04:48:09,952 - DEBUG - No new hospitals, scroll_attempts=14
+2026-04-28 04:48:09,992 - DEBUG - Found 8 cards on page
+2026-04-28 04:48:10,068 - INFO - Worker 6 | 533434: 8 hospitals so far
+2026-04-28 04:48:12,074 - DEBUG - No new hospitals, scroll_attempts=15
+2026-04-28 04:48:12,551 - INFO - Completed 533434 with 8 hospitals
+2026-04-28 04:48:16,470 - INFO - Inserted 8 new businesses for 533434
+2026-04-28 04:48:19,450 - INFO - [15/15] Processing pincode: 533483
+2026-04-28 04:48:20,426 - INFO - Starting scrape for pincode 533483
+2026-04-28 04:48:21,821 - DEBUG - Navigating to https://www.google.co.in/maps/search/hospital+in+533483/
+2026-04-28 04:48:28,230 - DEBUG - Found 8 cards on page
+2026-04-28 04:48:28,237 - DEBUG - Found hospital: Devarsh Hospitals
+2026-04-28 04:48:28,245 - DEBUG - Found hospital: Amma Hospitals
+2026-04-28 04:48:28,253 - DEBUG - Found hospital: Trinity Hospitals
+2026-04-28 04:48:28,258 - DEBUG - Found hospital: Manjeera Super Specialty Hospitals
+2026-04-28 04:48:28,264 - DEBUG - Found hospital: Jai bhavani hospital
+2026-04-28 04:48:28,270 - DEBUG - Found hospital: Sri Vishnu Multispeciality Hospital
+2026-04-28 04:48:28,275 - DEBUG - Found hospital: Sobha Hospital
+2026-04-28 04:48:28,280 - DEBUG - Found hospital: Swatantra Hospital multi specialty pvt ltd
+2026-04-28 04:48:28,280 - INFO - Worker 6 | 533483: 8 hospitals so far
+2026-04-28 04:48:30,300 - DEBUG - Found 8 cards on page
+2026-04-28 04:48:30,431 - INFO - Worker 6 | 533483: 8 hospitals so far
+2026-04-28 04:48:32,468 - DEBUG - No new hospitals, scroll_attempts=1
+2026-04-28 04:48:32,483 - DEBUG - Found 8 cards on page
+2026-04-28 04:48:32,531 - INFO - Worker 6 | 533483: 8 hospitals so far
+2026-04-28 04:48:34,536 - DEBUG - No new hospitals, scroll_attempts=2
+2026-04-28 04:48:34,549 - DEBUG - Found 8 cards on page
+2026-04-28 04:48:34,590 - INFO - Worker 6 | 533483: 8 hospitals so far
+2026-04-28 04:48:36,597 - DEBUG - No new hospitals, scroll_attempts=3
+2026-04-28 04:48:36,614 - DEBUG - Found 8 cards on page
+2026-04-28 04:48:36,657 - INFO - Worker 6 | 533483: 8 hospitals so far
+2026-04-28 04:48:38,663 - DEBUG - No new hospitals, scroll_attempts=4
+2026-04-28 04:48:38,676 - DEBUG - Found 8 cards on page
+2026-04-28 04:48:38,723 - INFO - Worker 6 | 533483: 8 hospitals so far
+2026-04-28 04:48:40,728 - DEBUG - No new hospitals, scroll_attempts=5
+2026-04-28 04:48:40,750 - DEBUG - Found 8 cards on page
+2026-04-28 04:48:40,800 - INFO - Worker 6 | 533483: 8 hospitals so far
+2026-04-28 04:48:42,804 - DEBUG - No new hospitals, scroll_attempts=6
+2026-04-28 04:48:42,819 - DEBUG - Found 8 cards on page
+2026-04-28 04:48:42,862 - INFO - Worker 6 | 533483: 8 hospitals so far
+2026-04-28 04:48:44,867 - DEBUG - No new hospitals, scroll_attempts=7
+2026-04-28 04:48:44,880 - DEBUG - Found 8 cards on page
+2026-04-28 04:48:44,928 - INFO - Worker 6 | 533483: 8 hospitals so far
+2026-04-28 04:48:46,933 - DEBUG - No new hospitals, scroll_attempts=8
+2026-04-28 04:48:46,979 - DEBUG - Found 8 cards on page
+2026-04-28 04:48:47,047 - INFO - Worker 6 | 533483: 8 hospitals so far
+2026-04-28 04:48:49,051 - DEBUG - No new hospitals, scroll_attempts=9
+2026-04-28 04:48:49,113 - DEBUG - Found 8 cards on page
+2026-04-28 04:48:49,183 - INFO - Worker 6 | 533483: 8 hospitals so far
+2026-04-28 04:48:51,187 - DEBUG - No new hospitals, scroll_attempts=10
+2026-04-28 04:48:51,201 - DEBUG - Found 8 cards on page
+2026-04-28 04:48:51,247 - INFO - Worker 6 | 533483: 8 hospitals so far
+2026-04-28 04:48:53,251 - DEBUG - No new hospitals, scroll_attempts=11
+2026-04-28 04:48:53,266 - DEBUG - Found 8 cards on page
+2026-04-28 04:48:53,314 - INFO - Worker 6 | 533483: 8 hospitals so far
+2026-04-28 04:48:55,320 - DEBUG - No new hospitals, scroll_attempts=12
+2026-04-28 04:48:55,516 - DEBUG - Found 8 cards on page
+2026-04-28 04:48:55,570 - INFO - Worker 6 | 533483: 8 hospitals so far
+2026-04-28 04:48:57,576 - DEBUG - No new hospitals, scroll_attempts=13
+2026-04-28 04:48:57,601 - DEBUG - Found 8 cards on page
+2026-04-28 04:48:57,650 - INFO - Worker 6 | 533483: 8 hospitals so far
+2026-04-28 04:48:59,654 - DEBUG - No new hospitals, scroll_attempts=14
+2026-04-28 04:48:59,669 - DEBUG - Found 8 cards on page
+2026-04-28 04:48:59,720 - INFO - Worker 6 | 533483: 8 hospitals so far
+2026-04-28 04:49:01,726 - DEBUG - No new hospitals, scroll_attempts=15
+2026-04-28 04:49:02,545 - INFO - Completed 533483 with 8 hospitals
+2026-04-28 04:49:05,145 - INFO - Inserted 8 new businesses for 533483
+2026-04-28 04:49:05,801 - INFO - Worker 6 finished. Success: 15, Failed: 0
+2026-04-28 04:54:22,987 - INFO - Worker 6 started with 7 pincodes
+2026-04-28 04:54:22,994 - INFO - [1/7] Processing pincode: 533296
+2026-04-28 04:54:27,206 - INFO - Starting scrape for pincode 533296
+2026-04-28 04:58:07,750 - DEBUG - Navigating to https://www.google.co.in/maps/search/hospital+in+533296/
+2026-04-28 04:59:24,540 - ERROR - Failed to scrape 533296: Page.goto: net::ERR_CONNECTION_CLOSED at https://www.google.co.in/maps/search/hospital+in+533296/
+Call log:
+  - navigating to "https://www.google.co.in/maps/search/hospital+in+533296/", waiting until "domcontentloaded"
+
+2026-04-28 04:59:24,853 - ERROR - Traceback (most recent call last):
+  File "E:\scrapper\scrappergame.py", line 266, in scrape_pincode_playwright
+    page.goto(url, wait_until='domcontentloaded')
+  File "C:\Users\mailt\AppData\Local\Python\pythoncore-3.11-64\Lib\site-packages\playwright\sync_api\_generated.py", line 9050, in goto
+    self._sync(
+  File "C:\Users\mailt\AppData\Local\Python\pythoncore-3.11-64\Lib\site-packages\playwright\_impl\_sync_base.py", line 115, in _sync
+    return task.result()
+           ^^^^^^^^^^^^^
+  File "C:\Users\mailt\AppData\Local\Python\pythoncore-3.11-64\Lib\site-packages\playwright\_impl\_page.py", line 552, in goto
+    return await self._main_frame.goto(**locals_to_params(locals()))
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\mailt\AppData\Local\Python\pythoncore-3.11-64\Lib\site-packages\playwright\_impl\_frame.py", line 153, in goto
+    await self._channel.send(
+  File "C:\Users\mailt\AppData\Local\Python\pythoncore-3.11-64\Lib\site-packages\playwright\_impl\_connection.py", line 69, in send
+    return await self._connection.wrap_api_call(
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\mailt\AppData\Local\Python\pythoncore-3.11-64\Lib\site-packages\playwright\_impl\_connection.py", line 559, in wrap_api_call
+    raise rewrite_error(error, f"{parsed_st['apiName']}: {error}") from None
+playwright._impl._errors.Error: Page.goto: net::ERR_CONNECTION_CLOSED at https://www.google.co.in/maps/search/hospital+in+533296/
+Call log:
+  - navigating to "https://www.google.co.in/maps/search/hospital+in+533296/", waiting until "domcontentloaded"
+
+
+2026-04-28 04:59:24,857 - ERROR - Attempt 1 failed for 533296: Page.goto: net::ERR_CONNECTION_CLOSED at https://www.google.co.in/maps/search/hospital+in+533296/
+Call log:
+  - navigating to "https://www.google.co.in/maps/search/hospital+in+533296/", waiting until "domcontentloaded"
+
+2026-04-28 04:59:24,858 - INFO - Waiting 5 seconds before retry...
+2026-04-28 04:59:29,859 - INFO - Starting scrape for pincode 533296
+2026-04-28 04:59:48,662 - DEBUG - Navigating to https://www.google.co.in/maps/search/hospital+in+533296/
+2026-04-28 05:01:01,928 - ERROR - Failed to scrape 533296: Page.goto: Timeout 60000ms exceeded.
+Call log:
+  - navigating to "https://www.google.co.in/maps/search/hospital+in+533296/", waiting until "domcontentloaded"
+
+2026-04-28 05:01:01,931 - ERROR - Traceback (most recent call last):
+  File "E:\scrapper\scrappergame.py", line 266, in scrape_pincode_playwright
+    page.goto(url, wait_until='domcontentloaded')
+  File "C:\Users\mailt\AppData\Local\Python\pythoncore-3.11-64\Lib\site-packages\playwright\sync_api\_generated.py", line 9050, in goto
+    self._sync(
+  File "C:\Users\mailt\AppData\Local\Python\pythoncore-3.11-64\Lib\site-packages\playwright\_impl\_sync_base.py", line 115, in _sync
+    return task.result()
+           ^^^^^^^^^^^^^
+  File "C:\Users\mailt\AppData\Local\Python\pythoncore-3.11-64\Lib\site-packages\playwright\_impl\_page.py", line 552, in goto
+    return await self._main_frame.goto(**locals_to_params(locals()))
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\mailt\AppData\Local\Python\pythoncore-3.11-64\Lib\site-packages\playwright\_impl\_frame.py", line 153, in goto
+    await self._channel.send(
+  File "C:\Users\mailt\AppData\Local\Python\pythoncore-3.11-64\Lib\site-packages\playwright\_impl\_connection.py", line 69, in send
+    return await self._connection.wrap_api_call(
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\mailt\AppData\Local\Python\pythoncore-3.11-64\Lib\site-packages\playwright\_impl\_connection.py", line 559, in wrap_api_call
+    raise rewrite_error(error, f"{parsed_st['apiName']}: {error}") from None
+playwright._impl._errors.TimeoutError: Page.goto: Timeout 60000ms exceeded.
+Call log:
+  - navigating to "https://www.google.co.in/maps/search/hospital+in+533296/", waiting until "domcontentloaded"
+
+
+2026-04-28 05:01:01,931 - ERROR - Attempt 2 failed for 533296: Page.goto: Timeout 60000ms exceeded.
+Call log:
+  - navigating to "https://www.google.co.in/maps/search/hospital+in+533296/", waiting until "domcontentloaded"
+
+2026-04-28 05:01:26,724 - ERROR - Failed to process 533296 after all retries
+2026-04-28 05:01:28,725 - INFO - [2/7] Processing pincode: 533124
+2026-04-28 05:01:33,026 - INFO - Starting scrape for pincode 533124
+2026-04-28 05:01:48,433 - DEBUG - Navigating to https://www.google.co.in/maps/search/hospital+in+533124/

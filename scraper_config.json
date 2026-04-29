@@ -1,0 +1,12 @@
+{
+  "chrome_binary": "D:\\Win_1130649_chrome-win\\chrome-win\\chrome.exe",
+  "chromedriver_path": "C:\\Users\\mailt\\.wdm\\drivers\\chromedriver\\win64\\146.0.7680.165\\chromedriver.exe",
+  "output_dir": "E:\\scrapper\\scraper_output",
+  "profile_dir": "E:\\scrapper\\chrome_profiles",
+  "page_load_delay": 5.0,
+  "scroll_delay": 2.0,
+  "max_scrolls": 15.0,
+  "delay_between": 2.0,
+  "headless": false,
+  "min_request_interval": 2.0
+}

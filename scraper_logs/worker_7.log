@@ -1,0 +1,106 @@
+2026-04-28 04:54:22,409 - INFO - Worker 7 started with 7 pincodes
+2026-04-28 04:54:22,411 - INFO - [1/7] Processing pincode: 533295
+2026-04-28 04:54:23,742 - INFO - Starting scrape for pincode 533295
+2026-04-28 04:58:07,749 - DEBUG - Navigating to https://www.google.co.in/maps/search/hospital+in+533295/
+2026-04-28 04:59:24,539 - ERROR - Failed to scrape 533295: Page.goto: net::ERR_CONNECTION_CLOSED at https://www.google.co.in/maps/search/hospital+in+533295/
+Call log:
+  - navigating to "https://www.google.co.in/maps/search/hospital+in+533295/", waiting until "domcontentloaded"
+
+2026-04-28 04:59:24,853 - ERROR - Traceback (most recent call last):
+  File "E:\scrapper\scrappergame.py", line 266, in scrape_pincode_playwright
+    page.goto(url, wait_until='domcontentloaded')
+  File "C:\Users\mailt\AppData\Local\Python\pythoncore-3.11-64\Lib\site-packages\playwright\sync_api\_generated.py", line 9050, in goto
+    self._sync(
+  File "C:\Users\mailt\AppData\Local\Python\pythoncore-3.11-64\Lib\site-packages\playwright\_impl\_sync_base.py", line 115, in _sync
+    return task.result()
+           ^^^^^^^^^^^^^
+  File "C:\Users\mailt\AppData\Local\Python\pythoncore-3.11-64\Lib\site-packages\playwright\_impl\_page.py", line 552, in goto
+    return await self._main_frame.goto(**locals_to_params(locals()))
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\mailt\AppData\Local\Python\pythoncore-3.11-64\Lib\site-packages\playwright\_impl\_frame.py", line 153, in goto
+    await self._channel.send(
+  File "C:\Users\mailt\AppData\Local\Python\pythoncore-3.11-64\Lib\site-packages\playwright\_impl\_connection.py", line 69, in send
+    return await self._connection.wrap_api_call(
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\mailt\AppData\Local\Python\pythoncore-3.11-64\Lib\site-packages\playwright\_impl\_connection.py", line 559, in wrap_api_call
+    raise rewrite_error(error, f"{parsed_st['apiName']}: {error}") from None
+playwright._impl._errors.Error: Page.goto: net::ERR_CONNECTION_CLOSED at https://www.google.co.in/maps/search/hospital+in+533295/
+Call log:
+  - navigating to "https://www.google.co.in/maps/search/hospital+in+533295/", waiting until "domcontentloaded"
+
+
+2026-04-28 04:59:24,998 - ERROR - Attempt 1 failed for 533295: Page.goto: net::ERR_CONNECTION_CLOSED at https://www.google.co.in/maps/search/hospital+in+533295/
+Call log:
+  - navigating to "https://www.google.co.in/maps/search/hospital+in+533295/", waiting until "domcontentloaded"
+
+2026-04-28 04:59:25,000 - INFO - Waiting 5 seconds before retry...
+2026-04-28 04:59:30,002 - INFO - Starting scrape for pincode 533295
+2026-04-28 04:59:37,254 - DEBUG - Navigating to https://www.google.co.in/maps/search/hospital+in+533295/
+2026-04-28 05:00:52,783 - ERROR - Failed to scrape 533295: Page.goto: Timeout 60000ms exceeded.
+Call log:
+  - navigating to "https://www.google.co.in/maps/search/hospital+in+533295/", waiting until "domcontentloaded"
+
+2026-04-28 05:00:52,784 - ERROR - Traceback (most recent call last):
+  File "E:\scrapper\scrappergame.py", line 266, in scrape_pincode_playwright
+    page.goto(url, wait_until='domcontentloaded')
+  File "C:\Users\mailt\AppData\Local\Python\pythoncore-3.11-64\Lib\site-packages\playwright\sync_api\_generated.py", line 9050, in goto
+    self._sync(
+  File "C:\Users\mailt\AppData\Local\Python\pythoncore-3.11-64\Lib\site-packages\playwright\_impl\_sync_base.py", line 115, in _sync
+    return task.result()
+           ^^^^^^^^^^^^^
+  File "C:\Users\mailt\AppData\Local\Python\pythoncore-3.11-64\Lib\site-packages\playwright\_impl\_page.py", line 552, in goto
+    return await self._main_frame.goto(**locals_to_params(locals()))
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\mailt\AppData\Local\Python\pythoncore-3.11-64\Lib\site-packages\playwright\_impl\_frame.py", line 153, in goto
+    await self._channel.send(
+  File "C:\Users\mailt\AppData\Local\Python\pythoncore-3.11-64\Lib\site-packages\playwright\_impl\_connection.py", line 69, in send
+    return await self._connection.wrap_api_call(
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\mailt\AppData\Local\Python\pythoncore-3.11-64\Lib\site-packages\playwright\_impl\_connection.py", line 559, in wrap_api_call
+    raise rewrite_error(error, f"{parsed_st['apiName']}: {error}") from None
+playwright._impl._errors.TimeoutError: Page.goto: Timeout 60000ms exceeded.
+Call log:
+  - navigating to "https://www.google.co.in/maps/search/hospital+in+533295/", waiting until "domcontentloaded"
+
+
+2026-04-28 05:00:52,784 - ERROR - Attempt 2 failed for 533295: Page.goto: Timeout 60000ms exceeded.
+Call log:
+  - navigating to "https://www.google.co.in/maps/search/hospital+in+533295/", waiting until "domcontentloaded"
+
+2026-04-28 05:01:18,386 - ERROR - Failed to process 533295 after all retries
+2026-04-28 05:01:20,388 - INFO - [2/7] Processing pincode: 533294
+2026-04-28 05:01:22,093 - INFO - Starting scrape for pincode 533294
+2026-04-28 05:01:30,683 - DEBUG - Navigating to https://www.google.co.in/maps/search/hospital+in+533294/
+2026-04-28 05:02:30,925 - ERROR - Failed to scrape 533294: Page.goto: Timeout 60000ms exceeded.
+Call log:
+  - navigating to "https://www.google.co.in/maps/search/hospital+in+533294/", waiting until "domcontentloaded"
+
+2026-04-28 05:02:30,927 - ERROR - Traceback (most recent call last):
+  File "E:\scrapper\scrappergame.py", line 266, in scrape_pincode_playwright
+    page.goto(url, wait_until='domcontentloaded')
+  File "C:\Users\mailt\AppData\Local\Python\pythoncore-3.11-64\Lib\site-packages\playwright\sync_api\_generated.py", line 9050, in goto
+    self._sync(
+  File "C:\Users\mailt\AppData\Local\Python\pythoncore-3.11-64\Lib\site-packages\playwright\_impl\_sync_base.py", line 115, in _sync
+    return task.result()
+           ^^^^^^^^^^^^^
+  File "C:\Users\mailt\AppData\Local\Python\pythoncore-3.11-64\Lib\site-packages\playwright\_impl\_page.py", line 552, in goto
+    return await self._main_frame.goto(**locals_to_params(locals()))
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\mailt\AppData\Local\Python\pythoncore-3.11-64\Lib\site-packages\playwright\_impl\_frame.py", line 153, in goto
+    await self._channel.send(
+  File "C:\Users\mailt\AppData\Local\Python\pythoncore-3.11-64\Lib\site-packages\playwright\_impl\_connection.py", line 69, in send
+    return await self._connection.wrap_api_call(
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\mailt\AppData\Local\Python\pythoncore-3.11-64\Lib\site-packages\playwright\_impl\_connection.py", line 559, in wrap_api_call
+    raise rewrite_error(error, f"{parsed_st['apiName']}: {error}") from None
+playwright._impl._errors.TimeoutError: Page.goto: Timeout 60000ms exceeded.
+Call log:
+  - navigating to "https://www.google.co.in/maps/search/hospital+in+533294/", waiting until "domcontentloaded"
+
+
+2026-04-28 05:02:30,927 - ERROR - Attempt 1 failed for 533294: Page.goto: Timeout 60000ms exceeded.
+Call log:
+  - navigating to "https://www.google.co.in/maps/search/hospital+in+533294/", waiting until "domcontentloaded"
+
+2026-04-28 05:02:30,927 - INFO - Waiting 5 seconds before retry...
+2026-04-28 05:02:35,929 - INFO - Starting scrape for pincode 533294
